@@ -1,5 +1,1 @@
-streamlit
-pymongo
-PyPDF2
-scikit-learn
-pandas
+
